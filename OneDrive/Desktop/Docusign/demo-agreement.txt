@@ -1,0 +1,19 @@
+CloudFuze Purchase Agreement
+
+This is a demo document for DocuSign integration testing.
+
+Agreement Details:
+- Company: CloudFuze, Inc.
+- Service: Microsoft Cloud Migration
+- Date: 30/8/2025
+- Contact: Abhilasha.Kandakatla@cloudfuze.com
+
+Terms and Conditions:
+1. This is a demo agreement for testing purposes
+2. All terms are subject to final approval
+3. Pricing will be finalized upon project scope definition
+
+Please review and sign this document to proceed with the agreement.
+
+Best regards,
+CloudFuze Team

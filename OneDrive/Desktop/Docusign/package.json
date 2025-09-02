@@ -1,0 +1,23 @@
+{
+  "name": "docusign-jwt-integration",
+  "version": "1.0.0",
+  "description": "DocuSign API integration using JWT authentication",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node --env-file=.env index.js"
+  },
+  "dependencies": {
+    "axios": "^1.11.0",
+    "dotenv": "^16.6.1",
+    "jsonwebtoken": "^9.0.2"
+  },
+  "keywords": [
+    "docusign",
+    "jwt",
+    "api",
+    "integration"
+  ],
+  "author": "",
+  "license": "MIT"
+}
